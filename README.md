@@ -1,147 +1,155 @@
-# Enterprise Analytics Journey – NielsenIQ  
-**From Reporting Foundations to BI Transformation & Database Architecture**
+# Enterprise Analytics Journey – NielsenIQ
+
+## Overview
+
+This repository presents my end-to-end analytics journey at **NielsenIQ**, showcasing how I progressed from enterprise reporting to BI transformation and database architecture within a global FMCG analytics environment.
+
+Rather than isolated projects, this portfolio reflects **real enterprise-scale work**, structured into clear phases that demonstrate technical depth, business understanding, and stakeholder enablement.
+
+All content is recreated using **dummy data and conceptual examples** to fully respect confidentiality.
 
 ---
 
-## 👋 Overview
+## Career Progression at a Glance
 
-This repository provides a **structured overview of my analytics journey at NielsenIQ**, showcasing my progression across multiple roles and responsibilities:
+**Reporting Analyst → BI Analyst → Database Architect**
 
-1. Reporting & Analytics Foundation  
-2. BI Transformation & Data Lake Migration  
-3. Database Architecture & Customer Enablement  
+Across this journey, I worked closely with FMCG clients, internal data engineering teams, and commercial stakeholders, helping translate complex data into actionable business insights.
 
-Each phase reflects increasing ownership, technical depth, and business impact.
-
-All detailed technical examples are recreated using **dummy data** to respect confidentiality.
-
----
-
-## 🧭 Career Progression Summary
-
-![Career Progression]
-
-My role evolved from executing enterprise reports to **designing, governing, and explaining analytical systems** used by customers and internal teams.
+Key highlights:
+- Managed **~1000 recurring analytical reports**
+- Covered **Swiss & Austrian markets**
+- Supported complex **product hierarchies and market structures**
+- Played a key role in **BI modernization and customer onboarding**
+- Recognized with a **NielsenIQ award** for onboarding excellence
 
 ---
 
-## 1️⃣ Reporting & Analytics Foundation  
-**Role: Reporting Analyst**
+## Repository Map (Start Here)
 
-This phase represents the foundation of my analytics career, where I supported large-scale FMCG reporting operations.
+This master repository acts as a **navigation hub**.  
+Each phase below links to a dedicated deep-dive repository.
 
-### Key Highlights
-- Managed **~1000 recurring reports**
-- Markets: **Switzerland & Austria**
-- SQL-based analytical concepts via **Answers**
-- Advanced Excel automation using **RTL templates**
+---
 
-### Core Capabilities
-- SQL-style selection logic (market, product, fact, time)
-- Complex product hierarchy handling
-- Excel automation with formulas and macros
+### 1️⃣ Reporting & Analytics Foundation  
+**Excel Automation | SQL-Based Analytics | Enterprise Reporting**
+
+This phase represents the foundation of my analytics career, focused on large-scale reporting delivery and analytical rigor.
+
+**Key themes**
+- SQL-based analytical logic via *Answers*
+- Advanced Excel RTL (Reporting Table Layer) frameworks
+- Automation, scalability, and data accuracy
 - Business analysis and visualization
-- Customer enablement and schema explanation
+- Customer enablement on analytical tools
 
-📌 This phase demonstrates **discipline, scalability, and analytical rigor**.
-
----
-
-## 2️⃣ BI Transformation & Data Lake Migration  
-**Role: BI Analyst**
-
-In this phase, I transitioned into a BI-focused role, supporting the migration from legacy reporting tools to **Discover**, an enterprise data lake platform.
-
-![BI Migration Overview]
-
-### Key Highlights
-- Migrated Answers-based reports into Discover
-- Rebuilt reports to answer the same business questions using modern BI principles
-- Helped customers adopt a completely new analytics tool
-- Explained new data models, governance rules, and access logic
-
-### Core Capabilities
-- BI modernization & report redesign
-- Data lake concepts
-- KPI governance
-- Masking and access control explanation
-- Change management & customer training
-
-📌 This phase shows **modern BI thinking and strong communication skills**.
+🔗 **Explore full repository**  
+👉 https://rutang-bhatiya.github.io/1.0-Reporting-Analytics-Foundation-Nielseniq/
 
 ---
 
-## 3️⃣ Database Architecture & Customer Enablement  
-**Role: Database Architecture–Focused Position**
+### 2️⃣ BI Transformation & Data Lake Migration  
+**Legacy Migration | Discover | Change Management**
 
-This phase expanded my responsibilities into **data modeling, governance, and business-to-technical translation**.
+This phase focuses on modernizing analytics by migrating legacy reports to a centralized enterprise data lake.
 
-![Database Architecture]
+**Key themes**
+- Migration from Answers to **Discover**
+- Rebuilding reports to answer the same business questions with modern logic
+- Explaining **masking rules, access governance, and new data models**
+- Supporting customers through major platform change
+- BI thinking beyond “copy-paste reporting”
 
-### Key Highlights
-- Participated in database structure and modeling discussions
-- Explained complex database concepts in business language
-- Managed product hierarchies and item coding issues
-- Translated customer needs into structured business requirements
-- Supported and led new customer onboarding initiatives
-
-### Core Capabilities
-- Data modeling comprehension
-- Product hierarchy governance
-- Data quality management
-- Stakeholder expectation management
-- Customer onboarding leadership
-
-📌 This phase reflects **architect-level thinking and ownership**.
+🔗 **Explore full repository**  
+👉 https://rutang-bhatiya.github.io/2.0-BI-Transformation-Data-Lake-Migration-NielsenIQ/
 
 ---
 
-## 🏆 Awards & Recognition
+### 3️⃣ Database Architecture & Customer Enablement  
+**Data Modeling | Hierarchies | Business Translation**
 
-![Award Recognition]
+This phase highlights my role in database architecture, governance, and acting as a bridge between business and technical teams.
 
-I received a **NielsenIQ award** for contributions to a **new customer onboarding initiative**, recognizing:
+**Key themes**
+- Database structure and complexity explanation
+- Product hierarchy and item coding governance
+- Translating customer needs into implementable requirements
+- Managing expectations and ensuring data integrity
+- Leading and supporting customer onboarding initiatives
 
-- Cross-functional collaboration
-- Process improvement
-- Customer-first execution
-- Long-term scalability of solutions
-
----
-
-## 🧠 Skills & Strengths Across All Phases
-
-- SQL-based analytical thinking  
-- Advanced Excel automation  
-- BI transformation & modernization  
-- Data lake understanding  
-- Data modeling & hierarchy governance  
-- Business ↔ technical translation  
-- Customer enablement & stakeholder management  
-- Data quality and governance ownership  
+🔗 **Explore full repository**  
+👉 https://rutang-bhatiya.github.io/3.0-Database-Architecture-Customer-Enablement/
 
 ---
 
-## 🔐 Data Confidentiality
+## Award & Recognition
 
-All examples across repositories use **dummy data**.  
-No proprietary NielsenIQ systems, schemas, or customer information are exposed.
+🏆 **NielsenIQ Award – Customer Onboarding Excellence**
 
----
+Recognized for:
+- Leading and supporting smooth onboarding of new customers
+- Adapting templates and processes for international markets
+- Collaborating with multiple internal teams
+- Ensuring scalable, repeatable onboarding for future clients
 
-## 🚀 How to Use This Repository
-
-This master repository acts as a **navigation and storytelling layer**.
-
-Each career phase is documented in detail in its respective repository:
-- Reporting & Analytics Foundation
-- BI Transformation & Data Lake Migration
-- Database Architecture & Customer Enablement
-
-(Links can be added once repositories are published.)
+This award reflects not only technical contribution, but also ownership, communication, and customer focus.
 
 ---
 
-## 📌 Final Note
+## Skills Demonstrated Across the Journey
 
-This journey reflects not just technical skills, but **analytical maturity, ownership, and business impact** developed through real enterprise experience.
+### Analytics & Data
+- SQL-based analytical thinking
+- KPI design and governance
+- Trend, variance, and performance analysis
+- FMCG domain analytics
+
+### Tools & Platforms
+- Answers (SQL-driven analytics concepts)
+- Advanced Excel (RTL automation, macros, formulas)
+- Discover (Enterprise BI & Data Lake)
+- Excel Add-ins & analytical interfaces
+
+### Data Modeling & Architecture
+- Product and customer hierarchies
+- Item coding and categorization logic
+- Data quality and consistency management
+
+### Business & Stakeholder Enablement
+- Customer training and enablement
+- Business-to-technical translation
+- Expectation management
+- Cross-team collaboration
+
+---
+
+## Visuals & Documentation
+
+Each linked repository includes:
+- Conceptual **data flow diagrams**
+- **Architecture and hierarchy diagrams**
+- Sample **charts and analytical visuals**
+- Clear written explanations of logic and decisions
+
+These visuals are designed to explain *how* and *why* decisions were made, not just show outputs.
+
+---
+
+## Data Confidentiality Notice
+
+All examples, diagrams, charts, and explanations in this portfolio use **dummy data and simplified structures**.
+
+No proprietary NielsenIQ systems, schemas, logic, or client data are exposed.
+
+---
+
+## Final Note
+
+This portfolio reflects how analytics work is done in **real enterprise environments**:
+- At scale
+- With governance
+- With business accountability
+- And with continuous evolution
+
+Thank you for exploring my analytics journey.
