@@ -153,3 +153,16 @@ This portfolio reflects how analytics work is done in **real enterprise environm
 - And with continuous evolution
 
 Thank you for exploring my analytics journey.
+
+---
+
+## Navigation
+
+- **Overview:** [`About Me`](https://rutang-bhatiya.github.io/Rutang-Bhatiya/){:target="_blank"}
+  *It contain links to My portfolio and all major pages and projects*
+
+- **NielsenIQ:** [`NielsenIQ-Enterprise-Analytics-Journey`](https://rutang-bhatiya.github.io/Enterprise-Analytics-Journey-NielsenIQ/)
+  *Links to all Nielsen Repo*
+
+- **ECO3:** [`ECO3-enterprise-analytics-journey`](https://rutang-bhatiya.github.io/ECO3-enterprise-analytics-journey/){:target="_blank"}
+  *Links to all ECO3 Repo*
