@@ -43,7 +43,7 @@ This phase represents the foundation of my analytics career, focused on large-sc
 - Customer enablement on analytical tools
 
 🔗 **Explore full repository**  
-👉 [`Nielseniq-reporting-analytics-foundation`](https://rutang-bhatiya.github.io/1.0-Reporting-Analytics-Foundation-Nielseniq/){:target="_blank"}
+👉 [`Nielseniq-reporting-analytics-foundation`](https://rutang-bhatiya.github.io/1.0-Reporting-Analytics-Foundation-Nielseniq/)
 
 ---
 
@@ -60,7 +60,7 @@ This phase focuses on modernizing analytics by migrating legacy reports to a cen
 - BI thinking beyond “copy-paste reporting”
 
 🔗 **Explore full repository**  
-👉 [`Nielseniq-bi-transformation-discover`](https://rutang-bhatiya.github.io/2.0-BI-Transformation-Data-Lake-Migration-NielsenIQ/){:target="_blank"}
+👉 [`Nielseniq-bi-transformation-discover`](https://rutang-bhatiya.github.io/2.0-BI-Transformation-Data-Lake-Migration-NielsenIQ/)
 
 ---
 
@@ -77,7 +77,7 @@ This phase highlights my role in database architecture, governance, and acting a
 - Leading and supporting customer onboarding initiatives
 
 🔗 **Explore full repository**  
-👉 [`Nielseniq-database-architecture-business-translation`](https://rutang-bhatiya.github.io/3.0-Database-Architecture-Customer-Enablement/){:target="_blank"}
+👉 [`Nielseniq-database-architecture-business-translation`](https://rutang-bhatiya.github.io/3.0-Database-Architecture-Customer-Enablement/)
 
 ---
 
@@ -156,11 +156,11 @@ Thank you for exploring my analytics journey.
 
 ## Navigation
 
-- **Overview:** [`About Me`](https://rutang-bhatiya.github.io/Rutang-Bhatiya/){:target="_blank"}
+- **Overview:** [`About Me`](https://rutang-bhatiya.github.io/Rutang-Bhatiya/)
   *It contain links to My portfolio and all major pages and projects*
 
 - **NielsenIQ:** [`NielsenIQ-Enterprise-Analytics-Journey`](https://rutang-bhatiya.github.io/Enterprise-Analytics-Journey-NielsenIQ/)
   *Links to all Nielsen Repo*
 
-- **ECO3:** [`ECO3-enterprise-analytics-journey`](https://rutang-bhatiya.github.io/ECO3-enterprise-analytics-journey/){:target="_blank"}
+- **ECO3:** [`ECO3-enterprise-analytics-journey`](https://rutang-bhatiya.github.io/ECO3-enterprise-analytics-journey/)
   *Links to all ECO3 Repo*
