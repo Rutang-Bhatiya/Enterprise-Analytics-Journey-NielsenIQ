@@ -32,7 +32,7 @@ Each phase below links to a dedicated deep-dive repository.
 
 ---
 
-### 1️⃣ Reporting & Analytics Foundation  
+### 1️⃣ Reporting & Analytics Foundation
 **Excel Automation | SQL-Based Analytics | Enterprise Reporting**
 
 This phase represents the foundation of my analytics career, focused on large-scale reporting delivery and analytical rigor.
@@ -45,7 +45,7 @@ This phase represents the foundation of my analytics career, focused on large-sc
 - Customer enablement on analytical tools
 
 🔗 **Explore full repository**  
-👉 https://rutang-bhatiya.github.io/1.0-Reporting-Analytics-Foundation-Nielseniq/
+👉 [`Nielseniq-reporting-analytics-foundation`](https://rutang-bhatiya.github.io/1.0-Reporting-Analytics-Foundation-Nielseniq/){:target="_blank"}
 
 ---
 
@@ -62,7 +62,7 @@ This phase focuses on modernizing analytics by migrating legacy reports to a cen
 - BI thinking beyond “copy-paste reporting”
 
 🔗 **Explore full repository**  
-👉 https://rutang-bhatiya.github.io/2.0-BI-Transformation-Data-Lake-Migration-NielsenIQ/
+👉 [`Nielseniq-bi-transformation-discover`](https://rutang-bhatiya.github.io/2.0-BI-Transformation-Data-Lake-Migration-NielsenIQ/){:target="_blank"}
 
 ---
 
@@ -79,7 +79,7 @@ This phase highlights my role in database architecture, governance, and acting a
 - Leading and supporting customer onboarding initiatives
 
 🔗 **Explore full repository**  
-👉 https://rutang-bhatiya.github.io/3.0-Database-Architecture-Customer-Enablement/
+👉 [`Nielseniq-database-architecture-business-translation`](https://rutang-bhatiya.github.io/3.0-Database-Architecture-Customer-Enablement/){:target="_blank"}
 
 ---
 
