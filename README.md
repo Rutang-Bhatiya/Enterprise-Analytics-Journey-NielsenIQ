@@ -1,5 +1,3 @@
-# Enterprise Analytics Journey – NielsenIQ
-
 ## Overview
 
 This repository presents my end-to-end analytics journey at **NielsenIQ**, showcasing how I progressed from enterprise reporting to BI transformation and database architecture within a global FMCG analytics environment.
